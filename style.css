@@ -1,0 +1,44 @@
+body {background-color: #36afff}
+
+.jedan {font-size: 35px;
+	text-shadow: 2px 3px grey;}
+
+.par1 {font-size: 30px;
+       text-shadow: 1px 2px grey}
+
+.par2 {font-size: 25px;
+}
+
+.par3 {font-size: 25px;
+}
+
+.par4 {font-size: 25px;
+}
+
+.par5 {font-size: 25px;
+}
+
+.par5 {font-size: 30px;
+	   color: red;
+}
+
+.slika1 {float: right}
+
+.topnav {
+	background-color: #f6ff00;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	text-align: center;
+	padding: 14px 16px;
+}
+.topnav a:hover{
+	background-color: black;
+	color: #f6ff00;
+}
+.link1 {font-size: 20px}
+.link2 {font-size: 20px}
+
+.div1 {float: right;
+       padding: 90px 180px}
